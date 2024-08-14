@@ -22,7 +22,7 @@ body {
 }
 
 .header img{
-    box-shadow: 4px 4px 20px black;
+    box-shadow: 1px 1px 20px black;
 }
 
 .header a:hover{
